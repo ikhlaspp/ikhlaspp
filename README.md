@@ -43,13 +43,15 @@ Software developer focused on web development and programming with a versatile s
 
 </div>
 
-## 📚 Recent Activity
+## 📚 Recent GitHub Activity
+<!-- This section is automatically updated by the GitHub Action workflow -->
 
-<!-- GitHub Activity Graph -->
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=ikhlaspp&theme=react-dark)
+```text
+🔄 Commit activity will be shown here once the GitHub Action workflow runs
+```
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!-- Fixing the activity graph URL to a working alternative -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ikhlaspp&theme=react-dark)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ikhlaspp&theme=radical&no-frame=false&no-bg=true&margin-w=4)
