@@ -73,8 +73,13 @@ Software developer focused on web development and programming with a versatile s
 
 ### 📊 Weekly Development Breakdown
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+| Nama | Instansi |
+| :--- | :--- |
+| **Astrid Annasya Putri** | ![STTNF](https://img.shields.io/badge/STTNF-%23004182.svg?style=flat-square&logoColor=white) |
+| **Dinda Nurfadhia** | ![STTNF](https://img.shields.io/badge/STTNF-%23004182.svg?style=flat-square&logoColor=white) |
+| **Muhammad Fahm** | ![STTNF](https://img.shields.io/badge/STTNF-%23004182.svg?style=flat-square&logoColor=white) |
+| **Rizqi Rifah Amarulloh** | ![STTNF](https://img.shields.io/badge/STTNF-%23004182.svg?style=flat-square&logoColor=white) |
+| **Ikhlas Putra Pambagyo** | ![UPNVJT](https://img.shields.io/badge/UPN_Veteran_Jatim-%23FFD700.svg?style=flat-square&logoColor=black) |
 
 > Last updated: 2025-06-21 10:23:03
   <summary>📈 Detailed GitHub Stats</summary>
